@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tobago Healthcare Equipment \u0026 Supplies",
+  "description": "Healthcare equipment and essential medical supplies for personal care, caregiving, healthcare professionals, and organisations in Tobago, Trinidad and Tobago.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
